@@ -1,3 +1,9 @@
+libofa (0.9.3-21deepin0) unstable; urgency=medium
+
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Fri, 20 Sep 2024 12:10:41 +0800
+
 libofa (0.9.3-21) unstable; urgency=medium
 
   * QA upload.
